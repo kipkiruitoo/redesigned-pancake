@@ -277,3 +277,7 @@ def locate_card_using_binary_search(cards, query):
 
 
 evaluate_test_cases(locate_card_using_binary_search, tests)
+
+
+#  our final algorithm has the time complexity O(log N). This fact is often stated as: binary search runs in logarithmic time.
+#  You can verify that the space complexity of binary search is O(1).
