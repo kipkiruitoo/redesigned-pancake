@@ -7,7 +7,7 @@
 #4. If answer lies before it, repeat the search with the first half of the list
 #5. If the answer lies after it, repeat the search with the second half of the list.
 
-
+# https://jovian.ai/kipkiruitoo/python-binary-search-assignment
 
 def binary_search(lo, hi, condition):
     """TODO - add docs"""
